@@ -1,2 +1,2 @@
 # HighFive
-Greatest project
+Soon here will be project description.
