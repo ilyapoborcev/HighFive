@@ -1,2 +1,2 @@
 # HighFive
-Soon here will be project description.
+Soon here will be the project description.
